@@ -4,4 +4,8 @@ dependencies:
   - pip
   - pip:
       - julia
-  
+      - pandas
+      - sklearn
+      - ggplot
+      - seaborn
+      - factor_analyzer
